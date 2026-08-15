@@ -1,0 +1,13 @@
+# Ignore model cache, checkpoints, and local adapter weights
+customer_support_lora/
+outputs/
+.ipynb_checkpoints/
+checkpoint-*/
+
+# Python virtual environment if you make one locally
+venv/
+.env
+
+# Windows specific system files
+Thumbs.db
+Desktop.ini
