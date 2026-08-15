@@ -27,4 +27,4 @@ The adapter was trained using the following parameters:
 - **Optimizer:** adamw_8bit
 - **Hardware:** Google Colab T4 GPU
 
-Link: Jack217/customer-support-llama-3.2-3b-lora
+Link: https://huggingface.co/Jack217/customer-support-llama-3.2-3b-lora
